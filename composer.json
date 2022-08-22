@@ -1,0 +1,25 @@
+{
+    "name": "sienekib/knowledge",
+    "type": "project",
+    "require": {
+        "symfony/var-dumper": "^5.4",
+        "vlucas/phpdotenv": "^5.4",
+        "facebook/graph-sdk": "^5.7",
+        "google/apiclient": "^2.12",
+        "google/apiclient-services": "^0.263.0",
+        "google/auth": "^1.21"
+    },
+    "license": "GPT",
+    "autoload": {
+        "psr-4": {
+            "Sienekib\\Knowledge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sienekib20",
+            "email": "sienkib@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
