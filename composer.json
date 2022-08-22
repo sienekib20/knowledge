@@ -12,7 +12,8 @@
     "license": "GPT",
     "autoload": {
         "psr-4": {
-            "Sienekib\\Knowledge\\": "src/"
+            "HnScript\\": "src/",
+            "App\\": "app/"
         }
     },
     "authors": [
